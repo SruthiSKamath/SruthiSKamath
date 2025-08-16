@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Sruthi K S.jpg" alt="Sruthi K S" width="200" style="border-radius:50%" />
+  <img src="SRUTHI K S.jpg" alt="Sruthi K S" width="600" style="border-radius:100%" />
 </p>
 <h1 align="center">Hi 👋, I'm Sruthi K S</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
