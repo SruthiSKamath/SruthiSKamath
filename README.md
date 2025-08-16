@@ -1,8 +1,11 @@
 <p align="center">
   <img src="SRUTHI K S.jpg" alt="Sruthi K S" width="600" style="border-radius:100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Sruthi K S</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=2E97F1&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sruthi+K+S" alt="Typing SVG" />
+</p>
+
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sruthiskamath&label=Profile%20views&color=0e75b6&style=flat" alt="sruthiskamath" /> </p>
 
